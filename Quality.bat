@@ -1,0 +1,1 @@
+echo' Quality the scripts :%date% :%time%

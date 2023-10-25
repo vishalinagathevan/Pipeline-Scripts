@@ -1,0 +1,1 @@
+echo' Dyploy the scripts :%date% :%time%
